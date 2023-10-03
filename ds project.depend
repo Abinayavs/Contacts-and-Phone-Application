@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666332390 source:d:\abi\c++\ds project\main.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+
